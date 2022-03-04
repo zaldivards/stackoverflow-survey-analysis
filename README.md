@@ -7,6 +7,7 @@ Analysis about Stackoverflow’s 2017 Annual Developer Survey.
 - NumPy (>= 1.22.0)
 - Pandas (>= 1.3.4)
 - Matplotlib (>= 3.4.3)
+- Seaborn (>= 0.11.2)
 
 # Project Motivation
 This analysis was intended to analyze the relation between the respondents' education and their parents' and how this impacts on their salaries. Also, to find some of the factors that impact the peoples' job satisfaction.
