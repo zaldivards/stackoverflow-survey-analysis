@@ -1,6 +1,6 @@
 # stackoverflow-survey-analysis
 
-Analysis about Stackoverflow’s 2017 Annual Developer Survey.
+Analysis about Stackoverflow’s 2017 Annual Developer Survey. 
 
 # Installations
 - Python (>= 3.9.7)
@@ -23,3 +23,6 @@ This analysis was intended to analyze the relation between the respondents' educ
 - In some cases the overpayment impacts(possitively) the job satisfaction of the people. Nevertheless, extra factors such as the work environment and the functions of the people in their companies can cause satisfaction to decay.
 
 - People who are employed but actively looking for a job have low job satisfaction. Also, I found that the reason for this may be that they are underpaid in some way.
+
+# Dataset
+https://www.kaggle.com/stackoverflow/so-survey-2017/download
