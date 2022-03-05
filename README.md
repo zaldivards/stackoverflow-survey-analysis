@@ -26,3 +26,6 @@ This analysis was intended to analyze the relation between the respondents' educ
 
 # Dataset
 https://www.kaggle.com/stackoverflow/so-survey-2017/download
+
+# Blog post
+https://zaldivards.github.io/
